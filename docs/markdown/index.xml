@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown :: My New Hugo Site</title>
+    <link>https://gomisr.github.io/trabajo_hugo/markdown/index.html</link>
+    <description>En este apartado vamos a hablar de MARKDOWN desde lo basico hasta lo más avanzado&#xA;ANTENCIÓN Es una breve explicación, hay sintaxis no introducida en este apartado&#xA;Hay información extra en la página de MARKDOWN</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 14:09:40 +0200</lastBuildDate>
+    <atom:link href="https://gomisr.github.io/trabajo_hugo/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extensiones</title>
+      <link>https://gomisr.github.io/trabajo_hugo/markdown/extensiones/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 14:09:40 +0200</pubDate>
+      <guid>https://gomisr.github.io/trabajo_hugo/markdown/extensiones/index.html</guid>
+      <description>Shortcodes La sintaxis para introducir un shortcode es la siguiente (la comilla no se pone, la coloco para que no salte error):&#xA;{{`&lt;&gt;}} Introducimos un shortcode de un video:&#xA;{{\&lt;youtube IEwL-TZBeqQ&gt;}} El shortcode del boton es de la siguiente manera:&#xA;{{`&lt;button&gt;}} el texto de dentro {{`&lt;/button&gt;}} Esto es un boton Crear diagramas La orientacion depende de las primeras letras LR BT TB … (Left-Right, Button-Top, …)</description>
+    </item>
+    <item>
+      <title>Avanzado</title>
+      <link>https://gomisr.github.io/trabajo_hugo/markdown/avanzado/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 14:09:30 +0200</pubDate>
+      <guid>https://gomisr.github.io/trabajo_hugo/markdown/avanzado/index.html</guid>
+      <description>Avanzados de Markdown Para escribir tablas en markdown lo hacemos de la siguiente manera. Se utilizan los : para indicar el lado&#xA;| Derecha | Izquierda | Centrada | |--------:|-------------|:-------:| | Derecha | descripcion de la primera tabla | Centrada 1 | | Derecha | Descripción en cuestión de la segunda fila | Centrada 2 | | .... | ...... | .... | | Derecha | Descripción de la última fila | Centrada 3 | El resultado de la tabla se vería de la siguiente forma:&#xA;Derecha Izquierda Centrada Derecha descripcion de la primera tabla Centrada 1 Derecha Descripción en cuestión de la segunda fila Centrada 2 …. …… …. Derecha Descripción de la última fila Centrada 3 Links Para mostrar el link hay dos formas:</description>
+    </item>
+    <item>
+      <title>Basico</title>
+      <link>https://gomisr.github.io/trabajo_hugo/markdown/basico/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 14:09:19 +0200</pubDate>
+      <guid>https://gomisr.github.io/trabajo_hugo/markdown/basico/index.html</guid>
+      <description>Basicos de Markdown Para estableceer los titulos usare la siguiente sintaxis&#xA;#titulo1 ##titulo2 ###titulo3 ####titulo4 #####titulo5 ######titulo6 Y se verá:&#xA;Titulo1 Titulo2 Titulo3 Titulo4 Titulo5 Titulo6 Negrita y formato Para ver en negrita escribo:&#xA;**Texto negrita** Texto normal Y se verá: Texto negrita Texto normal&#xA;Alerta de estilos Para mostrar alertas con diferentes estilos se escribe así:&#xA;[!tip] Titulo personalizado Descripcion personalizada del aviso [!note] Titulo personalizado desplegable Descripcion personalizada del aviso desplegable [!WARNING] Titulo personalizado del warning Descripción de la alerta [!INFO] Titulo de la informacion Descripcion de la informacion Y este seía el resultado:</description>
+    </item>
+  </channel>
+</rss>
