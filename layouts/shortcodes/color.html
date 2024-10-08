@@ -1,0 +1,7 @@
+<!-- Creamos una variable para poder decidir el color del shortcode-->
+{{ $color := .Get "color" | default "black" }}
+<h3 style=" color:{{$color}}">
+    Esto es un texto de la plantilla.
+
+    {{.Inner}} <!-- Sirve para pasar el texto al llamar el shortcode -->
+</h3>

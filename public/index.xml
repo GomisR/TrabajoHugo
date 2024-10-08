@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 14:09:11 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Descargas</title>
+      <link>http://localhost:1313/descargas/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 14:09:11 +0200</pubDate>
+      <guid>http://localhost:1313/descargas/index.html</guid>
+      <description>Recursos que puedes obtener Ficheros descargables Entorno Web Servidor.txt (377 B) Esto es un texto de la plantilla.&#xD;Texto personalizado</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/markdown/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 14:09:11 +0200</pubDate>
+      <guid>http://localhost:1313/markdown/index.html</guid>
+      <description>En este apartado vamos a hablar de MARKDOWN desde lo basico hasta lo más avanzado&#xA;ANTENCIÓN Es una breve explicación, hay sintaxis no introducida en este apartado&#xA;Hay información extra en la página de MARKDOWN</description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/personal/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:23:25 +0200</pubDate>
+      <guid>http://localhost:1313/personal/index.html</guid>
+      <description>Sobre mi Esta página es la primera págia que desarrollo desde php</description>
+    </item>
+  </channel>
+</rss>
